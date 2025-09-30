@@ -4,3 +4,8 @@ Data Validator is a Python application that checks if personal information is co
 
 # Spanish Description: 
 Data Validator es una aplicación modular en Python diseñada para validar datos personales comunes como emails, DNI, nombres, fechas de nacimiento y números de teléfono. Su objetivo es ofrecer una base sólida para prácticas de testing automatizado con Pytest, incluyendo cobertura de código, parametrización y manejo de errores.
+
+# Author
+Matías Tripodi  
+[LinkedIn](https://www.linkedin.com/in/matias-tripodi-139925a0/)
+[GitHub Repo](https://github.com/matitripodi/demoqa-selenium-tests)
